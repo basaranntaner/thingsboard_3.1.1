@@ -48,7 +48,7 @@
     "flot.curvedlines": "git://github.com/MichaelZinsmaier/CurvedLines.git#master",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
-    "jquery.terminal": "^2.18.3",
+    "jquery.terminal": "^2.31.1",
     "js-beautify": "^1.13.0",
     "json-schema-defaults": "^0.4.0",
     "jstree": "^3.3.10",
